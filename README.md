@@ -26,10 +26,10 @@ https://youtu.be/CHFwuJQhYms
 📌 Proyecto Grupal:
 #⭐ Web App - Cindie
 Henry - Bootcamp
-Diseñar y desarrollar una Web App para la publicación de films independientes. Funciones: búsquedas, filtrados, ordenamientos, pasarela de pagos, notificaciones.
-La appliación fue realizada utilizando las siguientes tecnologías: JavaScript, React, Redux, CSS y Back desarrollado en Node.js con Express. Base de datos en PostgreSQL y Sequelize. También se utilizó Material UI para el diseño responsivo, react-player para el reproductor de video, nodemailer para las notificaciones, Adminjs para el diseño de la interfaz de administración. 
+Diseñar y desarrollar una Web App para la publicación de films independientes. Funciones: búsquedas, filtrados, ordenamientos, autenticación, pasarela de pagos, notificaciones, subir archivos.
+La appliación fue realizada utilizando las siguientes tecnologías: JavaScript, React, Redux, CSS y Back desarrollado en Node.js con Express. Base de datos en PostgreSQL y Sequelize. También se utilizó Material UI para el diseño responsivo, auth0, mercadopago, react-player para el reproductor de video, nodemailer para las notificaciones, Adminjs para el diseño de la interfaz de administración. 
 Herramientas y metodologías de trabajo: Scrum, Trello, github.
-Mi colaboración en el proyecto consistió principalmente en: Modelado de base de datos, rutas y métodos de la aplicación. Notificaciones de correo electrónico. Utilización de React-Player. Componente Contacto en el front. Diseñar la interfaz de administración y sus funcionalidades. Deployar la app, el back en Heroku y el front en Vercel.
+Mi colaboración en el proyecto consistió principalmente en: Modelado de base de datos, rutas y métodos de la aplicación. Notificaciones de correo electrónico. Utilización de React-Player. Componente Contacto en el front. Diseñar la interfaz de administración y sus funcionalidades. Deployar la app, el back en Heroku y el front en Vercel. https://cindie-front.vercel.app/
  
 📎 Contact me:
     gustavogallesio@hotmail.com
