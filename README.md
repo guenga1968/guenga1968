@@ -1,3 +1,16 @@
 # HOLA SOY GUSTAVO
+Full Stack Developer ❤️ from Argentina to 🌎
 
-## FULL STACK DEVELOPER
+  
+⭐ Languages and Tools:
+
+
+
+ 
+📌 My proyects
+
+Pedidotopia
+
+ 
+📎 How to reach me:
+  
