@@ -12,12 +12,15 @@ Me forme como profesional del derecho. Mi experiencia ha sido principalmente en 
 Una vez que me retiré, decidí capacitarme en lo que siempre me gustó. Estudie por mi cuenta distintas tecnologías para el diseño de sitios web y aplicaciones para celulares Andorid e Ios.  Realicé el curso de programador FullStack en Python brindado por el GCABA, pero deseando estar en mejores condiciones de empleabilidad para el sector, ingresé al Bootcamp de Henry, donde adquirí conocimeintos en javascript, react, redux, node.js, express, sequelize, postgresql y más.  
 
 #⭐ Languages and Tools:
-JAVASCRIPT, PYTHON, PHP, REACT, REDUX, EXPRESS, SEQUELIZE, POSTGRESQL, MONGODB, SQL, HTML, CSS, BOOTSTRAP, GIT, NODEJS.
+JAVASCRIPT, PYTHON, PHP, REACT, REDUX, EXPRESS, SEQUELIZE, POSTGRESQL, MONGODB, SQL, HTML, CSS, BOOTSTRAP, GIT, NODEJS, VUE, DOCKER, ADMINJS, NODEMAILER, MULTER.
 
 
  
 📌 My proyects
-
+#⭐ Web App - Countries
+Henry - Bootcamp
+Diseñar y desarrollar una App de países que incluía: búsquedas, filtrados, ordenamientos y creación de actividades turísticas .
+Desarrollar la app usando para el Front React, Redux, CSS puro y Back desarrollado en Node.js con Express. Base de datos en PostgreSQL y Sequelize.
 
 
  
