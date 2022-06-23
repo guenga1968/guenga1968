@@ -1,5 +1,5 @@
 # HOLA SOY GUSTAVO
-# Full Stack Developer con pasión por aprender.
+# Full Stack Developer con pasión por aprender y crear.
 
 Full Stack Developer con orientación en Back-End, con capacidad de desarrollar proyectos que sean escalables y modularizables para asi construir en equipo. Tengo experiencia trabajando en NodeJS, React, Redux, SQL entre otras tecnologías del sector Con pensamiento creativo, resolución de problemas, trabajo en equipo, comunicación y autonomía. 
 
